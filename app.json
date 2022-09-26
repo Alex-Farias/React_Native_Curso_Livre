@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "F_Teste_Expo",
+    "slug": "F_Teste_Expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
