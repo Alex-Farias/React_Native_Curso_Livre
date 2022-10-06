@@ -2,6 +2,9 @@
 import {View, Text, TextInput} from 'react-native';
 
 
+//Link da Page
+// React docs on controlled components: https://reactjs.org/docs/forms.html#controlled-components
+// learn how to handle touches: https://reactnative.dev/docs/handling-touches
 const PizzaTranslator = () => {
     const [text, setText] = useState('');
     return (

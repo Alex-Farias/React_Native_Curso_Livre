@@ -2,6 +2,12 @@ import React from 'react';
 import { Button, View, Text, TextInput, Image } from 'react-native';
 
 
+//Links da Page
+// a comprehensive guide to JSX: https://reactjs.org/docs/jsx-in-depth.html
+// React Native’s Core Components: https://reactnative.dev/docs/intro-react-native-components
+// React’s useState Hook: https://reactjs.org/docs/hooks-state.html
+// other kinds of Hooks in the React documentation: https://reactjs.org/docs/hooks-intro.html
+
 //Conceitos importantes desse aprendizado
 //	On Android, you usually put your views inside LinearLayout,
 //	FrameLayout, RelativeLayout, etc.to define how the view’s children
